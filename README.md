@@ -10,7 +10,7 @@ Connect with me on [![linkedinicon]][linkedinurl].
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
-<em><b>I love connecting with people</b> so if you want to say <b>hi, go ahead!</b> :)</em>
+<em><b>I love connecting with people</b> so if you want to say <b>hi, shoot a mail!</b> :)</em>
 
 [linkedinurl]: https://www.linkedin.com/in/olle-logdahl/
 [linkedinicon]: https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/linkedin.png

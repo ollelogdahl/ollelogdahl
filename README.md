@@ -1,6 +1,6 @@
 ### Hey, I'm Olle! <img src="https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/wave.gif" width="26px"><img align=right src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="230">
 
-Studying computer science at Umeå University.</br>
+Studying computer science at <em><b>Umeå University</em></b>.</br>
 Connect with me on [![linkedinicon]][linkedinurl].
 
 </br>

@@ -5,10 +5,9 @@ Connect with me on [![facebookicon]][facebookurl] or [![linkedinicon]][linkedinu
 
 </br>
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![C](https://img.shields.io/badge/C%2C%20C%2B%2B%2C%20C%23-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 <em>I love connecting with people so if you want to say <b>hi, shoot a mail!</b> :)</em>
 

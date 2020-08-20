@@ -1,7 +1,7 @@
 ### Hey, I'm Olle! <img src="https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/wave.gif" width="26px"><img align=right src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="230">
 
 Studying computer science at <em><b>Umeå University</em></b>.</br>
-Connect with me on [![facebookicon]][facebookurl] or [![linkedinicon]][linkedinurl].
+Not working on anything special at the moment.
 
 </br>
 
@@ -10,13 +10,14 @@ Connect with me on [![facebookicon]][facebookurl] or [![linkedinicon]][linkedinu
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![OpenSource](https://img.shields.io/badge/-Open_source-000000?style=flat&logo=github)
 
-<em>I love connecting with people so if you want to say <b>hi, shoot a mail!</b> :)</em>
+<em>I love connecting with people so if you want to say <b>hi, feel free to!</b> :)</em>
 
-[linkedinurl]: https://www.linkedin.com/in/olle-logdahl/
-[linkedinicon]: https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/linkedin.png
-
-[facebookurl]: https://www.facebook.com/ollelogdahl
-[facebookicon]: https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/facebook.png
+<p align="left">
+    <a href="https://facebook.com/ollelogdahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="awdawdwad" height="20" width="20" /></a>
+<a href="https://instagram.com/ollelogdahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dwadijnd" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/olle-logdahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dadwada" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/9161483/olle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dwakdjnk" height="20" width="20" /></a>
+</p>
 
 </br>
 

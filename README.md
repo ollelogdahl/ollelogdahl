@@ -1,7 +1,7 @@
 ### Hey, I'm Olle! <img src="https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/wave.gif" width="26px"><img align=right src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="230">
 
 Studying computer science at <em><b>Umeå University</em></b>.</br>
-Connect with me on [![linkedinicon]][linkedinurl].
+Connect with me on [![facebookicon]][facebookurl] or [![linkedinicon]][linkedinurl].
 
 </br>
 
@@ -14,6 +14,9 @@ Connect with me on [![linkedinicon]][linkedinurl].
 
 [linkedinurl]: https://www.linkedin.com/in/olle-logdahl/
 [linkedinicon]: https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/linkedin.png
+
+[facebookurl]: https://www.facebook.com/ollelogdahl
+[facebookicon]: https://raw.githubusercontent.com/ollelogdahl/ollelogdahl/master/facebook.png
 
 </br>
 

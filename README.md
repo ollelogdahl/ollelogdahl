@@ -21,5 +21,5 @@ Connect with me on [![linkedinicon]][linkedinurl].
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=ollelogdahl&hide=prs,issues&hide_rank=false&include_all_commits=true&count_private=true&show_icons=true&title_color=454341&text_color=454341&icon_color=92cfbb">
 </a>
 <a href="https://github.com/ollelogdahl">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollelogdahl&hide=html,gap&layout=compact&title_color=454341&text_color=454341">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ollelogdahl&hide=html,gap&layout=compact&title_color=454341&text_color=454341&card_width=230">
 </a>

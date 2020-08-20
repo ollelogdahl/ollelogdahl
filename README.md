@@ -7,7 +7,9 @@ Connect with me on [![facebookicon]][facebookurl] or [![linkedinicon]][linkedinu
 
 ![C](https://img.shields.io/badge/C%2C%20C%2B%2B%2C%20C%23-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Jetbrains](https://img.shields.io/badge/-JetBrains-000000?style=flat&logo=jetbrains)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![OpenSource](https://img.shields.io/badge/-Open_source-000000?style=flat&logo=github)
 
 <em>I love connecting with people so if you want to say <b>hi, shoot a mail!</b> :)</em>
 

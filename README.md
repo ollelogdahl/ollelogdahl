@@ -15,7 +15,7 @@ Not working on anything special at the moment.
 <p align="left">
     <a href="https://facebook.com/ollelogdahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="awdawdwad" height="20" width="20" /></a>
 <a href="https://instagram.com/ollelogdahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dwadijnd" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/olle-logdahl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dadwada" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/public-profile/in/olle-lögdahl-66b3b1199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dadwada" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/9161483/olle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dwakdjnk" height="20" width="20" /></a>
 </p>
 

@@ -6,7 +6,6 @@ Not working on anything special at the moment.
 </br>
 
 ![C](https://img.shields.io/badge/C%2C%20C%2B%2B%2C%20C%23-000000?style=flat&logo=C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![OpenSource](https://img.shields.io/badge/-Open_source-000000?style=flat&logo=github)
 

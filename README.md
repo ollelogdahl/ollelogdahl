@@ -13,10 +13,4 @@ Not working on anything special at the moment.
 
 <em>I love connecting with people so if you want to say <b>hi, feel free to!</b> :)</em>
 
-<p>
-<a href="https://www.linkedin.com/public-profile/in/olle-lögdahl-66b3b1199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/9161483/olle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="20" width="20" /></a>
-<a href="https://github.com/ollelogdahl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" /></a>
-</p>
-
 </br>

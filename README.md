@@ -1,7 +1,5 @@
 ### Hey, I'm Olle!
 
-<img align=right src="https://media.giphy.com/media/3owyp2SViuDIGh8YoM/giphy.gif" width="230">
-
 Studying computer science at <em><b><a href="https://www.umu.se/en/">Umeå University</a></em></b>.</br>
 Not working on anything special at the moment.
 
